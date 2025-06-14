@@ -2302,4 +2302,4 @@ By leveraging GitHub Actions for both CI and CD, you ensure a robust and automat
 
 You can access the live deployment of this project at:
 
-🌐 [http://35.157.235.190/docs](http://35.157.235.190/docs)
+🌐 [http://18.198.228.37/docs](http://18.198.228.37/docs)
